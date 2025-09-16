@@ -1,6 +1,6 @@
 # Data Structure & Algorithm - [Danyal Khan](https://github.com/codeXdanyal)
 
-### Lecture 1 : Flowchart & Pseudocode + Installatio
+### Lecture 1 : Flowchart & Pseudocode
 
 ### Our First Program in C++
 
