@@ -6,28 +6,27 @@ using namespace std;
 int main() {
 
 // Variables
-int age = 20;
+int s = 20;
 
 // Data Types
 int age = 35;
 char grade = 'A';
-flaot PI = 3.14f;
+float PI = 3.14;
 double nums = 2345678.232;
 
 // Tye Casting 
 // Implicit TC
 char x = 'D';
 int val = x;
-cout << val; << endl;
+cout << val << endl;
 
 // Explicit TC
 double d = 34567892342;
 int g = (int)d;
-cout << typeof(g) << endl;
 
 // Input in CPP
 char a;
-cout <<"Enter any character: "
+cout <<"Enter any character: ";
 cin >> a;
 
 // Opearators
@@ -46,7 +45,7 @@ cout << (1 <= 2 )<< endl;
 cout << (1 != 2 )<< endl; 
 cout << (1 == 2 )<< endl; 
 
-Logical Operator
+// Logical Operator
 cout << (1 > 2 && 2 < 1 )<< endl; 
 cout << (1 > 2 || 2 < 1 )<< endl; 
 cout << (1 > 2 || ! 2 < 1 )<< endl; 
