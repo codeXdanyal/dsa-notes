@@ -37,7 +37,7 @@ Used to check multiple conditions sequentially. If one condition is true, its bl
 **Syntax**  
 ```cpp
 if (condition1) {
-    **// executes if condition1 is true**
+    // executes if condition1 is true
 } else if (condition2) {```cpp
     // executes if condition2 is true
 } else {
